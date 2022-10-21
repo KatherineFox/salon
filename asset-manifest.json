@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/salon/static/css/main.073c9b0a.css",
-    "main.js": "/salon/static/js/main.900270bb.js",
+    "main.css": "/salon/static/css/main.ae2648c8.css",
+    "main.js": "/salon/static/js/main.df7d826c.js",
     "static/js/787.8dd00d29.chunk.js": "/salon/static/js/787.8dd00d29.chunk.js",
     "static/media/logo.svg": "/salon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/salon/index.html",
-    "main.073c9b0a.css.map": "/salon/static/css/main.073c9b0a.css.map",
-    "main.900270bb.js.map": "/salon/static/js/main.900270bb.js.map",
+    "main.ae2648c8.css.map": "/salon/static/css/main.ae2648c8.css.map",
+    "main.df7d826c.js.map": "/salon/static/js/main.df7d826c.js.map",
     "787.8dd00d29.chunk.js.map": "/salon/static/js/787.8dd00d29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.900270bb.js"
+    "static/css/main.ae2648c8.css",
+    "static/js/main.df7d826c.js"
   ]
 }
